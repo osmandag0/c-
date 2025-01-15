@@ -1,2 +1,2 @@
 # c-
-c# öğrenirken yazdığım ve öğrendiğim kodlar
+c# ogrenirken yazdığım ve ögrendiğim kodlar
